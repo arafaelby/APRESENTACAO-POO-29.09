@@ -1,6 +1,6 @@
 package Encapsulamento;
 
-public class Main {
+public class MainPessoa {
     public static void main(String[] args){
 
         pessoa p = new pessoa();
