@@ -5,9 +5,8 @@ public class Doce {
         int quantidade;
 
         public Doce(){
-            this.nome = "null";
-            this.quantidade = 0;
         }
+
         public Doce(String nome, int quantidade) {
             this.nome = nome;
             this.quantidade = quantidade;
