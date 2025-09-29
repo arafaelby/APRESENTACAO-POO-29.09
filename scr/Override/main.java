@@ -3,10 +3,10 @@ package Override;
 public class main {
 
     public static void main(String[] args) {
-        Animal a = new Animal();
-        a.emitirSom();
+        Animal animal = new Animal();
+        animal.emitirSom();
 
-        Cachorro c = new Cachorro();
-        c.emitirSom();
+        Cachorro cachorro1 = new Cachorro();
+        cachorro1.emitirSom();
     }
 }

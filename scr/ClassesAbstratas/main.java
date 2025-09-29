@@ -2,7 +2,7 @@ package ClassesAbstratas;
 
 public class main {
     public static void main(String[] args) {
-        Forma quadrado = new Quadrado();
+        Quadrado quadrado = new Quadrado();
         quadrado.descriçao();
     }
 }
